@@ -1,5 +1,5 @@
 # tiddlywiki-game-2048
-一个TiddlyWiki 2048小游戏
+一个TiddlyWiki版2048小游戏
 
 主程序：tw-2048-Gatha.html
 
